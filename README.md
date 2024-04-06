@@ -39,7 +39,7 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 5. Tutorial 4: Descriptive analysis and data visualisation (1) (Apr. 25) 
 
-6. Tutorial 5: descriptive analysis and data visualisation (2) (Apr. 25)
+6. Tutorial 5: Descriptive analysis and data visualisation (2) (Apr. 25)
 
 7. Mini exam (open-book) and comments (May 9) 
      
