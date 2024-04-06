@@ -20,7 +20,7 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 ## Setup requirement
 
 - Students should use their laptops to engage in tutorials.
-- Need to install Python, and Jupyter Lab.
+- Need to install Python and Jupyter Lab.
 - Easy instructions are given in the following URLs.
   - Python: https://www.python.org/downloads/
   - Jupyte Lab: https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
