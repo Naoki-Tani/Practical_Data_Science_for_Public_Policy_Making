@@ -37,34 +37,33 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 4. Tutorial 3: Epidemiology model (2) (Apr. 18) 
 
-5. Mini exam (open-book) and comments (Apr. 25) 
+5. Tutorial 4: Descriptive analysis and data visualisation (1) (Apr. 25) 
 
-6. Tutorial 4: Descriptive Analysis and Data Visualisation (1) (Apr. 25) 
+6. Tutorial 5: descriptive analysis and data visualisation (2) (Apr. 25)
 
-7. Tutorial 5: Descriptive Analysis and Data Visualisation (2) (May 9) 
-
+7. Mini exam (open-book) and comments (May 9) 
+     
 8. Special lecture (TBD) (May 9) 
+   - Take-home exam (Due date: May 20)
 
-9. Basic Econometric Analysis (1) (May 16)
+9. Tutorial 6: Basic econometric analysis (1) (May 16)
 
-10. Basic Econometric Analysis (2) (May 16)
-    - 
+10. Tutorial 7: Basic econometric analysis (2) (May 16)
+    
+11. Group presentation (1) (May 30)
 
-12. 
-8. Tutorial 5: Data and statistics (2) (Jun. 7)
+12. Group presentation (2) (May 30)
+
+13. Special lecture (TBD)
+
+14. Special lecture (TBD)
  
-9. Tutorial 6: Basic numerical methods (1)  (Jun. 7)  
-
-10. Tutorial 7: Neoclassical growth model (1) (Jul. 5)    
-
-11. Tutorial 8: Neoclassical growth model (2) (Jul. 19)    
-
-12. Mini exam (open-book) and comments (Jul. 19)
-
 
 ---
 ## Grading
 
-- 2 mini exams (75%)
+- Mini exam (30%)
 
-- Group presentation (25%)
+- Take-home exam (30%)
+
+- Group presentation (40%)
