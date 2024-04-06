@@ -20,10 +20,10 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 ## Setup requirement
 
 - Students should use their laptops to engage in tutorials.
-- Need to install Julia, Python, and Jupyter Notebook
+- Need to install Python, and Jupyter Lab.
 - Easy instructions are given in the following URLs.
-  - Julia: https://www.kdnuggets.com/2022/11/setup-julia-jupyter-notebook.html
-  - Jupyte Notebook: https://jupyter.org/install
+  - Python: https://www.python.org/downloads/
+  - Jupyte Lab: https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
 
 ---
 ## Syllabus
