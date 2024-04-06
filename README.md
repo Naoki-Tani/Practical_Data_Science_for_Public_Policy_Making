@@ -28,16 +28,17 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 ---
 ## Syllabus
 
-1. Introduction (Apr. 12)
-    - Course requirements and grading (mini exams and group presentation)
+1. Introduction (Apr. 11)
+    - Course requirements and grading (mini exam, take-home exam, and group presentation)
     
-2. Tutorial 1: Julia Basics (Apr. 12)
+2. Tutorial 1: Python Basics (Apr. 11)
 
-3. Tutorial 2: Epidemiology model (1) (Apr. 26)  
+3. Tutorial 2: Epidemiology model (1) (Apr. 25)  
+
+4. Tutorial 3: Epidemiology model (2) (Apr. 25) 
 
 4. Mini exam (open-book) and comments (May 11) 
 
-5. Tutorial 3: Epidemiology model (2) (May 11) 
 
 6. Tutorial 4: Data and statistics (1) (May 24)
 
