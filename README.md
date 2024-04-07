@@ -33,36 +33,42 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
     
 2. Tutorial 1: Python Basics (Apr. 11)
 
-3. Tutorial 2: Epidemiology model (1) (Apr. 18)  
+3. Mini exam (open-book) and comments (Apr. 18)
 
-4. Tutorial 3: Epidemiology model (2) (Apr. 18) 
+4. Tutorial 2: Epidemiology model (1) (Apr. 18)  
 
-5. Tutorial 4: Descriptive analysis and data visualisation (1) (Apr. 25) 
+5. Tutorial 3: Epidemiology model (2) (Apr. 18) 
 
-6. Tutorial 5: Descriptive analysis and data visualisation (2) (Apr. 25)
+6. Mini exam (open-book) and comments (Apr. 25)
 
-7. Mini exam (open-book) and comments (May 9) 
-     
-8. Special lecture (TBD) (May 9) 
+7. Tutorial 4: Descriptive analysis and data visualisation (1) (Apr. 25) 
+
+8. Tutorial 5: Descriptive analysis and data visualisation (2) (Apr. 25)
+
+9. Mini exam (open-book) and comments (May 9) 
+
+10. Tutorial 6: Basic econometric analysis (1) (May 9)
+
+11. Special lecture (TBD) (May 9) 
    - Take-home exam (Due date: May 20)
 
-9. Tutorial 6: Basic econometric analysis (1) (May 16)
+12. Tutorial 7: Basic econometric analysis (2) (May 16)
 
-10. Tutorial 7: Basic econometric analysis (2) (May 16)
+13. Tutorial 8: Basic econometric analysis (3) (May 16)
     
-11. Group presentation (1) (May 23)
+14. Group presentation (1) (May 23)
 
-12. Group presentation (2) (May 23)
+15. Group presentation (2) (May 23)
 
-13. Special lecture (TBD) (May 30)
+16. Special lecture (TBD) (May 30)
 
-14. Special lecture (TBD) (May 30)
+17. Special lecture (TBD) (May 30)
  
 
 ---
 ## Grading
 
-- Mini exam (30%)
+- Mini exams (30%)
 
 - Take-home exam (30%)
 
