@@ -29,7 +29,7 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 ## Syllabus
 
 1. Introduction (Apr. 11)
-    - Course requirements and grading (mini exam, take-home exam, and group presentation)
+    - Course requirements and grading (mini exams, take-home exam, and group presentation)
     
 2. Tutorial 1: Python Basics (Apr. 11)
 
