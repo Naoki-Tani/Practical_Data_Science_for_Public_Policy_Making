@@ -50,7 +50,7 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 10. Tutorial 6: Basic econometric analysis (1) (May 9)
 
 11. Special lecture (TBD) (May 9) 
-   - Take-home exam (Due date: May 20)
+    - Take-home exam (Due date: May 20)
 
 12. Tutorial 7: Basic econometric analysis (2) (May 16)
 
