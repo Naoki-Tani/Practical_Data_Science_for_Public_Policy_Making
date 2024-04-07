@@ -50,13 +50,13 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 10. Tutorial 7: Basic econometric analysis (2) (May 16)
     
-11. Group presentation (1) (May 30)
+11. Group presentation (1) (May 23)
 
-12. Group presentation (2) (May 30)
+12. Group presentation (2) (May 23)
 
-13. Special lecture (TBD)
+13. Special lecture (TBD) (May 30)
 
-14. Special lecture (TBD)
+14. Special lecture (TBD) (May 30)
  
 
 ---
