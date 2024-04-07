@@ -68,8 +68,8 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 ---
 ## Grading
 
-- Mini exams (30%)
+- Mini exams (45%)
 
-- Take-home exam (30%)
+- Take-home exam (25%)
 
-- Group presentation (40%)
+- Group presentation (30%)
