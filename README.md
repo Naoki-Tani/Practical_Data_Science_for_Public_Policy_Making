@@ -33,7 +33,7 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
     
 2. Tutorial 1: Python Basics (Apr. 11)
 
-3. Mini exam (open-book) and comments (Apr. 18)
+3. Practice mini exam (open-book) and comments (Apr. 18)
 
 4. Tutorial 2: Epidemiology model (1) (Apr. 18)  
 
@@ -68,8 +68,8 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 ---
 ## Grading
 
-- Mini exams (45%)
+- Mini exams (30%)
 
-- Take-home exam (25%)
+- Take-home exam (30%)
 
-- Group presentation (30%)
+- Group presentation (40%)
