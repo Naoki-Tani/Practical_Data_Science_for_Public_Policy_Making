@@ -5,6 +5,13 @@
 This repository holds all the course materials for 2024 Practical Data Science for Public Policy Making in Kyoto University.
 
 ---
+## Overview
+
+The course provides some commonly used methods in Applied Econometrics and Computational Economics.
+Furthermore, it also focuses on application of the methods to practical problems in a regional government: students will participate in the joint research project with Kochi prefecture.
+Through the lectures, you need to obtain a scientific way of thinking to solve social problems in governments and private sectors.
+
+---
 ## Instructor
 
 [Naoki Tani](https://naoki-tani.github.io/) (Program-Specific Associate Professor, Research Center for Advanced Policy Studies (CAPS), Institute of Economic Research, Kyoto University & Ministry of Finance)
