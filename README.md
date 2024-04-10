@@ -19,7 +19,7 @@ Through the lectures, you need to obtain a scientific way of thinking to solve s
 ---
 ## Material
 
-The materials are written inside notebooks and markdown files (usually in `slides/`).
+The materials are written inside notebooks and markdown files (usually in `slide/`).
 
 Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
