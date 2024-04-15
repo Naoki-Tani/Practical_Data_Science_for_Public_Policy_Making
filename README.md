@@ -63,9 +63,9 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 13. Tutorial 8: Basic econometric analysis (3) (May 16)
     
-14. Group presentation (1) (May 23)
+14. Group presentation (May 23)
 
-15. Group presentation (2) (May 23)
+15. Special lecture made by K. Shonaka (Director for Public Finance, Wakayama Prefecture)  (May 23)
 
 16. Special lecture (TBD) (May 30)
 
