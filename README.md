@@ -46,7 +46,7 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 5. Tutorial 3: Epidemiology model (Apr. 25) 
 
-6. Mini exam (open-book) and comments (Apr. 25)
+6. Mini exam (open-book) and comments: Theil inequality decompostion method (Apr. 25)
 
 7. Tutorial 4: Descriptive analysis and data visualisation (1) (Apr. 25) 
 
