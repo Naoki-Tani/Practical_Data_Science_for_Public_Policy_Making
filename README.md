@@ -44,15 +44,15 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 4. Tutorial 2: Python Basics (2) (Apr. 18)  
 
-5. Tutorial 3: Epidemiology model (Apr. 18) 
+5. Tutorial 3: Epidemiology model (Apr. 25) 
 
 6. Mini exam (open-book) and comments (Apr. 25)
 
 7. Tutorial 4: Descriptive analysis and data visualisation (1) (Apr. 25) 
 
-8. Tutorial 5: Descriptive analysis and data visualisation (2) (Apr. 25)
+8. Mini exam (open-book) and comments (May 9) 
 
-9. Mini exam (open-book) and comments (May 9) 
+9. Tutorial 5: Descriptive analysis and data visualisation (2) (May 9)
 
 10. Tutorial 6: Basic econometric analysis (1) (May 9)
 
