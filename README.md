@@ -67,9 +67,9 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 15. Special lecture made by K. Shonaka (Director for Public Finance, Wakayama Prefectural Government)  (May 23)
 
-16. Special lecture (TBD) (May 30)
+16. Special lecture (TBD)
 
-17. Special lecture (TBD) (May 30)
+17. Special lecture (TBD)
  
 
 ---
