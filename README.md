@@ -66,9 +66,9 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 15. Mini exam (open-book) and comments (May 30)
 
-16. Tutorial 8: Basic econometric analysis (3) (May 30)
+16. Tutorial 8: Basic econometric analysis (3) (May 30, 8:45-10:15)
     
-17. Group presentation (Jul. 4)
+17. Group presentation (Jul. 4, 8:45-10:15)
 
 18. Special lecture (Jul. 22)
 
