@@ -57,26 +57,27 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 10. Tutorial 6: Basic econometric analysis (1) (May 9)
 
 11. Special lecture made by K. Nakamura (Director for Tourism Policy, Kochi Prefectural Government) (May 9) 
-    - Take-home exam (Due date: May 15)
 
-12. Tutorial 7: Basic econometric analysis (2) (May 16)
+12. Mini exam (open-book) and comments (May 23)
 
-13. Tutorial 8: Basic econometric analysis (3) (May 16)
+13. Tutorial 7: Basic econometric analysis (2) (May 23)
+
+14. Special lecture made by K. Shonaka (Director for Public Finance, Wakayama Prefectural Government)  (May 23)
+
+15. Mini exam (open-book) and comments (May 30)
+
+16. Tutorial 8: Basic econometric analysis (3) (May 30)
     
-14. Group presentation (May 23)
+17. Group presentation (Jul. 4)
 
-15. Special lecture made by K. Shonaka (Director for Public Finance, Wakayama Prefectural Government)  (May 23)
+18. Special lecture (Jul. 22)
 
-16. Special lecture (TBD)
-
-17. Special lecture (TBD)
+19. Special lecture (Jul. 22)
  
 
 ---
 ## Grading
 
-- Mini exams (30%)
-
-- Take-home exam (30%)
+- Mini exams (60%)
 
 - Group presentation (40%)
