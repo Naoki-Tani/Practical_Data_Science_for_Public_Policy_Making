@@ -54,19 +54,17 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 9. Tutorial 5: Descriptive analysis and data visualisation (2) (May 9)
 
-10. Tutorial 6: Basic econometric analysis (1) (May 9)
-
 11. Special lecture made by K. Nakamura (Director for Tourism Policy, Kochi Prefectural Government) (May 9) 
 
 12. Mini exam (open-book) and comments (May 23)
 
-13. Tutorial 7: Basic econometric analysis (2) (May 23)
+13. Tutorial 6: Basic econometric analysis (1) (May 23)
 
 14. Special lecture made by K. Shonaka (Director for Public Finance, Wakayama Prefectural Government)  (May 23)
 
 15. Mini exam (open-book) and comments (May 30)
 
-16. Tutorial 8: Basic econometric analysis (3) (May 30, 8:45-10:15)
+16. Tutorial 7: Basic econometric analysis (2) (May 30, 8:45-10:15)
     
 17. Group presentation (Jul. 4, 8:45-10:15)
 
