@@ -8,7 +8,7 @@ This repository holds all the course materials for 2024 Practical Data Science f
 ## Overview
 
 The course provides some commonly used methods in Applied Econometrics and Computational Economics.
-Furthermore, it also focuses on application of the methods to practical problems in a regional government: students will participate in the joint research project with Kochi prefecture.
+Furthermore, it also focuses on application of the methods to practical problems in a regional government: students will participate in [the joint research project with Kochi prefecture](https://www.caps.kier.kyoto-u.ac.jp/implementation/implementation-615/).
 Through the lectures, you need to obtain a scientific way of thinking to solve social problems in governments and private sectors.
 
 ---
@@ -54,7 +54,7 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 9. Tutorial 5: Descriptive analysis and data visualisation (2) (May 9)
 
-11. Special lecture made by K. Nakamura (Director for Tourism Policy, Kochi Prefectural Government) (May 9) 
+11. [Special lecture made by K. Nakamura](https://www.caps.kier.kyoto-u.ac.jp/implementation/implementation-797/) (Director for Tourism Policy, Kochi Prefectural Government) (May 9) 
 
 12. Mini exam (open-book) and comments (May 23)
 
