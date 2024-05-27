@@ -67,7 +67,7 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 16. Tutorial 7: Basic econometric analysis (2) (May 30, 8:45-10:15)
     
 17. Group presentation (Jul. 4, 8:45-10:15)
-    - Each group must submit its `.ipynb` file by the end of June.
+    - Each group must submit its `.ipynb` file and presentation materials by the end of June.
 
 19. Special lecture (Jul. 22)
 
