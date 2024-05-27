@@ -68,6 +68,9 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
     
 17. Group presentation (Jul. 4, 8:45-10:15)
     - Each group must submit its `.ipynb` file and presentation materials by the end of June.
+    - 8:45-9:15 '若年層、女性客' group
+    - 9:15-9:45 '中山間地域' group
+    - 9:45-10:15 instructor
 
 19. Special lecture (Jul. 22)
 
