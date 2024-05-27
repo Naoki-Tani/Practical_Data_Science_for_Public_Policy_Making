@@ -68,6 +68,7 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
     
 17. Group presentation (Jul. 4, 8:45-10:15)
     - Each group must submit its `.ipynb` file and presentation materials by the end of June.
+    - The presentation time is 30 minutes which include 20 minutes presentation and 10 minutes discussion.
     - 8:45-9:15 '若年層、女性客' group
     - 9:15-9:45 '中山間地域' group
     - 9:45-10:15 instructor
