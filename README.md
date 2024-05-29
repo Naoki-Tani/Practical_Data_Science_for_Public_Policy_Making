@@ -65,8 +65,10 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 15. Mini exam (open-book) and comments (May 30)
 
 16. Tutorial 7: Basic econometric analysis (2) (May 30, 8:45-10:15)
+
+17. Tutorial 8: Basic econometric analysis (3) (May 30, 8:45-10:15)
     
-17. Group presentation (Jul. 4, 8:45-10:15)
+18. Group presentation (Jul. 4, 8:45-10:15)
     - Each group must submit its `.ipynb` file and presentation materials by the end of June.
     - The presentation time is 30 minutes which include 20 minutes presentation and 10 minutes discussion.
     - 8:45-9:15 '若年層、女性客' group
