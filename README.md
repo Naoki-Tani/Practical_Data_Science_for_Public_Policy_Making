@@ -75,10 +75,7 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
     - 9:15-9:45 '中山間地域' group
     - 9:45-10:15 instructor
 
-19. Special lecture (Jul. 22)
-
-20. Special lecture (Jul. 22)
- 
+19. [Final report meeting (Jul. 22, @Kochi)](https://www.caps.kier.kyoto-u.ac.jp/implementation/implementation-906/)
 
 ---
 ## Grading
